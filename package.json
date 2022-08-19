@@ -1,0 +1,16 @@
+{
+  "name": "aggregator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agr_reverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mubeen Ul Haq",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.28.11",
+    "@cosmjs/proto-signing": "^0.28.4",
+    "@cosmjs/stargate": "^0.28.4"
+  }
+}
